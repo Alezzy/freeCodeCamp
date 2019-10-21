@@ -280,7 +280,7 @@ Siga estes passos:
 
 2. Depois, você deve dar `rebase` da `upstream`.
 
-   Este passo **irá sincronizar as últimas alterações** do repositório principal do freeCodeCamp. É importante que você dê _rebase_ frequetemente, para evitar conflitos posteriores.
+   Este passo **irá sincronizar as últimas alterações** do repositório principal do freeCodeCamp. É importante que você dê _rebase_ frequentemente, para evitar conflitos posteriores.
 
    ```shell
    git pull --rebase upstream master
